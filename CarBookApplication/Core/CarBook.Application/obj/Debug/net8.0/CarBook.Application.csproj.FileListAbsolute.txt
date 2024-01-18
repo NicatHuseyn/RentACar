@@ -1,0 +1,15 @@
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.deps.json
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Domain.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Domain.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.AssemblyReference.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.AssemblyInfoInputs.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.AssemblyInfo.cs
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.CopyComplete
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\obj\Debug\net8.0\refint\CarBook.Application.dll
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\CarBook App\CarBookApplication\Core\CarBook.Application\obj\Debug\net8.0\ref\CarBook.Application.dll
